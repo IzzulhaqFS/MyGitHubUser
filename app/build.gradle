@@ -15,7 +15,7 @@ android {
         versionCode 1
         versionName "1.0"
 
-        buildConfigField("String", "GITHUB_TOKEN", '"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"')
+        buildConfigField("String", "GITHUB_TOKEN", '"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"')
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
